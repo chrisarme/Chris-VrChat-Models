@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="MODEL PROJECT.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VRCSDK\Dependencies\VRChat\Editor\VRC_SdkControlPanel.cs">
+    <Files>
+      <File FileName="Assets\VRCSDK\Dependencies\VRChat\Editor\VRC_SdkControlPanel.cs" Line="959" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
